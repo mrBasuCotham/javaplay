@@ -1,2 +1,4 @@
 This is the first line I want to keep.
-Here's a second line that I think is okay
+I have changed my second line
+Here is a third line.
+And a forth
